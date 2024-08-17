@@ -6,7 +6,7 @@ Our aim is to achieve few goals we set for ourselves inorder make a safer bankin
 
 # Clone the Repository
 
-1. git clone https://github.com/Jayanth-stack/BeyondPasswordsSecureOnlineBanking.git
+1. git clone https://github.com/SaiSurya3003/Beyond_Passwords_Secure_Online_Banking.git
 2. cd yourprojectname
 
 # Set Up a Virtual Environment (optional but recommended)
